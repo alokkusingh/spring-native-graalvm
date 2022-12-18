@@ -20,8 +20,8 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 | Build       | Startup Time | Actuator Health API | Build Size | Memory |
 |-------------|--------------|---------------------|------------|--------|
-| GraalVM | ~637ms       | ~3ms                | ~21 MB     | 290 MB |
-| Java | ~4.8s        | ~28ms               | ~72 MB     | 90 MB  |
+| GraalVM | ~637ms       | ~3ms                | ~72 MB     | 90 MB |
+| Java | ~4.8s        | ~28ms               | ~21 MB     | 290 MB  |
 
 
 
